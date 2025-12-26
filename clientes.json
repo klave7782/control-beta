@@ -1,14 +1,8 @@
 {
     "cliente_001": {
-        "local": "Pizza Cono",
+        "local": "PRUEBA LOCAL",
         "pc_id": "0xb8aeedb004da",
         "estado": "activo",
-        "vence": "20261229"
-    },
-    "cliente_002": {
-        "local": "Super Lito",
-        "pc_id": "0xb4b676012240",
-        "estado": "activo",
-        "vence": "20270625"
+        "vence": "20301231"
     }
 }
