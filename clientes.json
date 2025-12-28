@@ -2,7 +2,7 @@
     "cliente_001": {
         "local": "PRUEBA LOCAL",
         "pc_id": "0xb8aeedb004da",
-        "estado": "suspendido",
+        "estado": "activo",
         "vence": "20301231"
     }
 }
