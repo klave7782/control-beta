@@ -2,7 +2,7 @@
     "cliente_001": {
         "local": "Sandwicheria",
         "pc_id": "0xbd3ecb19fe44",
-        "estado": "activo",
+        "estado": "suspendido",
         "vence": "20301231"
     }
 }
